@@ -1,0 +1,23 @@
+heroku link: https://student-staff-detail.herokuapp.com/
+
+
+//staff
+{
+    "id":1,
+    "name":"staff1"
+}
+{
+    "id":2,
+    "name":"staff2"
+}
+//student
+{
+    "id":1,
+    "name":"lakshmi",
+    "staffid":1
+}
+{
+    "id":2,
+    "name":"varalakshmi",
+    "staffid":"2"
+}
